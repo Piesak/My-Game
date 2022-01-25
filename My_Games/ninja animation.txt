@@ -1,0 +1,39 @@
+  this.anims.create({
+        key: 'attack',
+        frames: [{
+          key: 'ninja',
+          frame: 'Attack__000.png'
+      }, {
+          key: 'ninja',
+          frame: 'Attack__001.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__002.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__003.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__004.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__005.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__006.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__007.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__008.png'
+      }, {
+        key: 'ninja',
+        frame: 'Attack__009.png'
+      }],
+      framerate: 8,
+      repat: -1
+  });
+
+  this.ninja.play('attack');
+}

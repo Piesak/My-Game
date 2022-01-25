@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "siuu.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 864,
+				"h": 264
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Siuu.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 864,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 862,
+						"h": 262
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 862,
+						"h": 262
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0a21a8494a312f753a0bf3d47076cd99:03b72e763f685adb31e7c7bccd847105:f86ac17c34926850d32aaf47264a2e63$"
+	}
+}
